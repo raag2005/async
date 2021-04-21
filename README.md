@@ -3,12 +3,12 @@ Async utilities for FXServer
 
 ## Installation
 Set it as a dependency in you fxmanifest.lua
-```
+```lua
 server_script '@async/async.lua'
 ```
 
 ## Usage
-```
+```lua
 local tasks = {}
 
 for i = 1, 100, 1 do
