@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'aSync'
+description 'async fivem'
 
 shared_script 'async.lua'
